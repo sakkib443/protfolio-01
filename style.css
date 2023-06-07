@@ -211,3 +211,128 @@ span{
     color: white;
     transition: .8s;
 }
+
+
+/*  What I do section */
+
+ .iwhat-i-do{
+    margin-top: 60px;
+    margin-bottom: 120px;
+    background: none;
+}
+.iwhat-i-do h3{
+    color: red;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 12px;
+    margin-top: 50px;
+}
+.iwhat-i-do h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.icol-3{
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 31%; 
+    background:  linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow:  5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
+    border: 1px solid red;
+    border-radius: 30px;
+    background: #363636;
+   
+}
+
+
+
+.iiner{
+    padding: 30px 40px;
+
+    
+}
+.ido-icon i{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: red;
+}
+
+.ido-section h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 10px;
+} 
+
+
+/* main what i do */
+
+.what-i-do{
+    margin-top: 120px;
+   
+    
+}
+.what-i-do h3{
+    color: red;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 8px;
+    margin-top: 50px;
+}
+.what-i-do h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.col-3{
+    background:  linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow:  5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
+    width: 25%;
+    padding: 25px 30px 70px 45px;
+    border-radius: 10px;
+}
+
+
+.col-3 h2{
+    background: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+.col-3 p{
+    background: none;
+    font-family: 'Poppins', sans-serif;
+    color: #676767;
+    font-size: 14;
+    line-height: 25px;
+    
+}
+.col-3 i{
+    background: none;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    color: red;
+}
+
+/* .col-3:hover{
+    background: linear-gradient(145deg, #6E67CC, #D96483);
+    color: white;
+    transition: .5s;
+} */
+
+
+
+/* protfolio  section*/
+
+.protfolio{
+    text-align: center;
+}
+.protfolio h3{
+    color: red;
+    margin-bottom: 12px;
+}
+ h1{
+    color: #3C3E41;
+}
